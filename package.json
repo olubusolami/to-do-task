@@ -10,8 +10,19 @@
     "to-do",
     "pen-it-down"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olubusolami/to-do-task.git"
+},
+
   "author": "Olubusola",
   "license": "ISC",
+  
+ "bugs": {
+  "url": "https://github.com/olubusolami/to-do-task/issues"
+},
+"homepage": "https://github.com/olubusolami/to-do-task#readme",
+
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
